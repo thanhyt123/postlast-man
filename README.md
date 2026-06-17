@@ -31,7 +31,7 @@ Ngoài video hướng dẫn được giao, em đã tìm hiểu thêm một số 
 Sau khi cài đặt thành công, đây là giao diện làm việc (Workspace) chính của Postman:
 
 *(Bạn hãy chụp ảnh giao diện Postman của bạn, đặt tên là `giao-dien.png` và chèn vào đây)*
-![Giao diện Postman](images(1).png)
+![Giao diện Postman]([images(1).png](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyyDHIVyke-FKfw3HdrQjS4jsmmgugcDWmHRVv9cOUVjw69q7My84DYDhd_rxD))
 
 ### 3.2. Thực hiện phương thức GET Request (Lấy dữ liệu)
 Thử nghiệm gửi một Request dạng `GET` tới API giả lập: `https://jsonplaceholder.typicode.com/posts/1`
