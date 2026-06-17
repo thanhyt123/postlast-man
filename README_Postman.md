@@ -31,20 +31,20 @@ Ngoài video hướng dẫn được giao, em đã tìm hiểu thêm một số 
 Sau khi cài đặt thành công, đây là giao diện làm việc (Workspace) chính của Postman:
 
 *(Bạn hãy chụp ảnh giao diện Postman của bạn, đặt tên là `giao-dien.png` và chèn vào đây)*
-![Giao diện Postman](giao-dien.png)
+![Giao diện Postman](images (1).png)
 
 ### 3.2. Thực hiện phương thức GET Request (Lấy dữ liệu)
 Thử nghiệm gửi một Request dạng `GET` tới API giả lập: `https://jsonplaceholder.typicode.com/posts/1`
 * **Kết quả:** Hệ thống trả về dữ liệu định dạng JSON thành công với mã lỗi **Status: 200 OK**.
 
 *(Bạn hãy chụp ảnh kết quả chạy request GET thành công, đặt tên là `ket-qua-get.png` và chèn vào đây)*
-![Kết quả GET](ket-qua-get.png)
+![Kết quả GET](images.jpg)
 
 ### 3.3. Tạo và quản lý Collection
 Tạo một bộ sưu tập (Collection) tên là `Postman_Assignment` để gom nhóm các yêu cầu kiểm thử lại với nhau, giúp quản lý bài tập khoa học hơn.
 
 *(Bạn hãy chụp ảnh danh sách Collection bên cột trái Postman, đặt tên là `collection.png` và chèn vào đây)*
-![Quản lý Collection](collection.png)
+![Quản lý Collection](images.png)
 
 ---
 
